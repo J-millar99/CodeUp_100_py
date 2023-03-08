@@ -1,1 +1,3 @@
-# This-is-cording-test
+# CodeUp 기초 문제 풀이
+
+*코딩 입문을 위한 여러가지 기본적인 문제 풀이
